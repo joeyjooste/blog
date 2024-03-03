@@ -5,8 +5,8 @@ theme: ["PaperMod"]
 enableEmoji: true
 params:
   homeInfoParams:
-    Title: Hi there 👋, welcome to my blog
-    Content: My name is Joey, I'm a business owner, entrepreneur and software developer. I sometimes write about stuff I find cool.
+    Title: Hi there 👋
+    Content: Welcome to my blog. My name is Joey, I'm a business owner, entrepreneur and software developer. I sometimes write about stuff I find cool.
 
   socialIcons: # optional
     - name: Twitter
