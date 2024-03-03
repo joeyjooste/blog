@@ -9,9 +9,9 @@ params:
     Content: My name is Joey, I'm a business owner, entrepreneur and software developer. I sometimes write about stuff I find cool.
 
   socialIcons: # optional
-    - name: "<Twitter>"
+    - name: Twitter
       url: "https://twitter.com/joeyjjooste"
-    - name: "<LinkedIn>"
+    - name: LinkedIn
       url: "https://www.linkedin.com/in/joeyjooste/"
-    - name: "<GitHub>"
+    - name: GitHub
       url: "https://github.com/FrikkyWasTaken"
