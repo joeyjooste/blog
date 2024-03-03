@@ -1,15 +1,17 @@
 baseURL: https://joeyjooste.com/
 languageCode: en-us
-title: My New Hugo Site
+title: Joey Jooste
 theme: ["PaperMod"]
-
+enableEmoji: true
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Hi there 👋, welcome to my blog
+    Content: My name is Joey, I'm a business owner, entrepreneur and software developer. I sometimes write about stuff I find cool.
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "<Twitter>"
+      url: "https://twitter.com/joeyjjooste"
+    - name: "<LinkedIn>"
+      url: "<https://www.linkedin.com/in/joeyjooste/>"
+    - name: "<GitHub>"
+      url: "https://github.com/FrikkyWasTaken"
