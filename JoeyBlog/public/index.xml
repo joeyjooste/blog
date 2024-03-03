@@ -6,14 +6,16 @@
     <description>Recent content on Joey Jooste</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 16:57:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 18:30:28 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Helloworld</title>
-      <link>http://localhost:1313/posts/papermod/helloworld/</link>
-      <pubDate>Fri, 01 Mar 2024 16:57:03 +0200</pubDate>
-      <guid>http://localhost:1313/posts/papermod/helloworld/</guid>
-      <description>This is my new post</description>
+      <title>My first month on Arch</title>
+      <link>http://localhost:1313/posts/my-first-month-on-arch/</link>
+      <pubDate>Sun, 03 Mar 2024 18:30:28 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-month-on-arch/</guid>
+      <description>Introduction I&amp;rsquo;ve been using Arch for about a month now. It has been the best experience that I&amp;rsquo;ve had while using a computer.
+And its not even close.
+The beginnings Growing up I played a lot of video games, so naturally I gravitated towards windows. I also didn&amp;rsquo;t have a lot of money. This combination meant I was using windows and always attempting to squeeze the most performance possible out of it.</description>
     </item>
   </channel>
 </rss>
