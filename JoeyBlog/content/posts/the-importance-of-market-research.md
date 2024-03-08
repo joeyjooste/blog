@@ -1,7 +1,7 @@
 +++
 title = 'The Importance of Market Research'
 date = 2024-03-07T22:16:08+02:00
-draft = true
+draft = false
 +++
 
 
