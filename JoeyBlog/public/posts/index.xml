@@ -6,14 +6,28 @@
     <description>Recent content in Posts on Joey Jooste</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 16:57:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 16:39:16 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Helloworld</title>
-      <link>http://localhost:1313/posts/papermod/helloworld/</link>
-      <pubDate>Fri, 01 Mar 2024 16:57:03 +0200</pubDate>
-      <guid>http://localhost:1313/posts/papermod/helloworld/</guid>
-      <description>This is my new post</description>
+      <title>One Day or Day One</title>
+      <link>http://localhost:1313/posts/one-day-or-day-one/</link>
+      <pubDate>Thu, 07 Mar 2024 16:39:16 +0200</pubDate>
+      <guid>http://localhost:1313/posts/one-day-or-day-one/</guid>
+      <description>Introduction One day or day one&amp;hellip;
+One of my favourite motivational quotes.
+It&amp;rsquo;s extremely cliche, but it&amp;rsquo;s true, it applies to nearly all things you want to start.
+Today I did my first 6 proper cold calls.
+I had been putting if off for a long time and today was the day I finally decided to do it properly.
+You are going to be awful You are going to suck, its your first day, no one is a master at it on their first day.</description>
+    </item>
+    <item>
+      <title>My first month on Arch</title>
+      <link>http://localhost:1313/posts/my-first-month-on-arch/</link>
+      <pubDate>Sun, 03 Mar 2024 18:30:28 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-month-on-arch/</guid>
+      <description>Introduction I&amp;rsquo;ve been using Arch for about a month now. It has been the best experience that I&amp;rsquo;ve had while using a computer.
+And its not even close.
+The beginnings Growing up I played a lot of video games, so naturally I gravitated towards windows. I also didn&amp;rsquo;t have a lot of money. This combination meant I was using windows and always attempting to squeeze the most performance possible out of it.</description>
     </item>
   </channel>
 </rss>
