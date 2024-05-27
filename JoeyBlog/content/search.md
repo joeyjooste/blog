@@ -1,5 +1,5 @@
 ---
 title: "Search"
-placeholder: Search demo site with full text fuzzy search ...
+placeholder: Search for any word inside of or title of a blog ...
 layout: "search"
 ---
