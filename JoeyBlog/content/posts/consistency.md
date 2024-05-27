@@ -1,10 +1,8 @@
 +++
-title = 'Consistency'
+title = 'Consistency = Winning'
 date = 2024-05-27T22:56:51+02:00
 draft = false
 +++
-
-# Consistency = Winning
 
 I'm chronically ADHD. Staying consistent has always been one of the hardest things for me to do. I find it nearly impossible to build habits that last. The second I miss a single day of any habit I fall apart.
 
