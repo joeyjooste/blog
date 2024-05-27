@@ -1,7 +1,7 @@
 +++
 title = 'Consistency'
 date = 2024-05-27T22:56:51+02:00
-draft = true
+draft = false
 +++
 
 # Consistency = Winning
