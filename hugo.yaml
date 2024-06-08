@@ -1,8 +1,12 @@
 baseURL: https://joeyjooste.com/
 languageCode: en-us
 title: Joey Jooste
-theme: github.com/adityatelange/hugo-PaperMod
+theme: PaperMod
 enableEmoji: true
+module:
+  imports:
+    -path: github.com/adityatelange/hugo-PaperMod
+
 params:
   profileMode:
     enabled: true
