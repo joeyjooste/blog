@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Joey Jooste</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Joey Jooste</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OODA Loop</title>
       <link>http://localhost:1313/blog/oodaloop/</link>
@@ -54,15 +54,6 @@ You are going to be awful You are going to suck, its your first day, no one is a
       <description>Introduction I&amp;rsquo;ve been using Arch for about a month now. It has been the best experience that I&amp;rsquo;ve had while using a computer.
 And its not even close.
 The beginnings Growing up I played a lot of video games, so naturally I gravitated towards windows. I also didn&amp;rsquo;t have a lot of money. This combination meant I was using windows and always attempting to squeeze the most performance possible out of it.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>Auth Messiah An open-source user authentication server that can be setup with cloudflare workers for free in under 15 minutes.
-It&amp;rsquo;s completely free, self-hostable, and solves the issue of authentication for any developer who doesn&amp;rsquo;t want to roll their own auth and doesn&amp;rsquo;t want to pay for a service like Auth0 or Supabase.
-Link to the project on github: (Link coming soon, in the process of making the repo public)</description>
     </item>
   </channel>
 </rss>

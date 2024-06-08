@@ -4,28 +4,46 @@ title: Joey Jooste
 theme: ["PaperMod"]
 enableEmoji: true
 params:
-  homeInfoParams:
-    Title: Hi there 👋
-    Content: Welcome to my blog. My name is Joey, I'm a business owner, entrepreneur and software developer. I sometimes write about stuff I find cool.
-
+  profileMode:
+    enabled: true
+    title: "Hi I'm Joey 👋"
+    subtitle: "I'm a business owner, entrepreneur and software developer. I sometimes write about stuff I find cool. Click the links below to see my projects or read my blog"
+    imageUrl: "joey.png" # optional
+    imageTitle: "Picture of Joey" # optional
+    imageWidth: 250 # custom size
+    imageHeight: 250 # custom size
+    buttons:
+      - name: Projects
+        url: "/projects"
+      - name: Blog
+        url: "/blog/"
   socialIcons: # optional
     - name: Twitter
       url: "https://twitter.com/joeyjjooste"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/joeyjooste/"
     - name: GitHub
-      url: "https://github.com/FrikkyWasTaken"
+      url: "https://github.com/joeyjooste"
 menu:
   main:
-    - name: Archive
-      url: archives
+    - name: Home
+      url: 
       weight: 5
-    - name: Search
-      url: search/
+    - name: Projects
+      url: projects
+      weight: 6
+    - name: Blog
+      url: blog
       weight: 10
-    - name: Tags
-      url: tags/
-      weight: 10
+    # - name: Archive
+    #   url: archives
+    #   weight: 5
+    # - name: Search
+    #   url: search/
+    #   weight: 10
+    # - name: Tags
+    #   url: tags/
+    #   weight: 10
 
 outputs:
   home:
