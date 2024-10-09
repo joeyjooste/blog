@@ -11,7 +11,7 @@ params:
   profileMode:
     enabled: true
     title: "Hi I'm Joey 👋"
-    subtitle: "I'm a business owner, entrepreneur and software developer. I sometimes write blogs about stuff I find cool. Click the links below to see my projects or read my blog"
+    subtitle: "I'm a founder, software engineer with a focus on AI / ML. I sometimes write blogs about stuff I find interesting. Possibly open to SWE/ML roles if it's a good fit."
     imageUrl: "joey.png" # optional
     imageTitle: "Picture of Joey" # optional
     imageWidth: 250 # custom size
