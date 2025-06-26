@@ -11,7 +11,7 @@ params:
   profileMode:
     enabled: true
     title: "Hi I'm Joey 👋"
-    subtitle: "Software Engineer with a focus on systems, backend, and AI/ML. Relocating to Dublin in September 2025. Looking for Backend/Systems FTE Roles in Dublin starting as early as August."
+    subtitle: "Software Engineer with a focus on correct code. Relocating to Dublin in September 2025. Looking for FTE Roles in Dublin starting as early as August."
     imageUrl: "joey.png" # optional
     imageTitle: "Picture of Joey" # optional
     imageWidth: 250 # custom size
